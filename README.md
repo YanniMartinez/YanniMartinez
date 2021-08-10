@@ -1,4 +1,4 @@
-## Hola a todos/as! Soy Yanni 👋
+## Hola a todos/as! Soy Yanni ⚔🌮
 
 <!--
 **YanniMartinez/YanniMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YanniMartinez&repo=XForce-ProyectoIntegrador)](https://github.com/YanniMartinez/XForce-ProyectoIntegrador)
 
 ### Ecommerce Back-End
-También estuve trabajando sobre el repositorio de  [generaluri](https://github.com/generaliru/xCommerce) donde estuvimos trabajando el Back-End del proyecto final de Generation
+También estuve trabajando sobre el repositorio de  [generaluri](https://github.com/generaliru/xCommerce) se estuvo elaborando el Back-End del proyecto final de Generation México.
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=generaliru&repo=xCommerce&show_owner=true)](https://github.com/generaliru/xCommerce)
